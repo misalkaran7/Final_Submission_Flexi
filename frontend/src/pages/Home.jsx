@@ -111,10 +111,10 @@ const Home = () => {
             <strong>Email:</strong> <a href="mailto:misalkaran071@gmail.com">misalkaran071@gmail.com</a>
           </li>
           <li>
-            <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener noreferrer">your-linkedin-username</a>
+            <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karan-misal-4b4117284/" target="_blank" rel="noopener noreferrer">your-linkedin-username</a>
           </li>
           <li>
-            <strong>GitHub:</strong> <a href="https://github.com/your-github-username" target="_blank" rel="noopener noreferrer">your-github-username</a>
+            <strong>GitHub:</strong> <a href="https://github.com/misalkaran7" target="_blank" rel="noopener noreferrer">your-github-username</a>
           </li>
         </ul>
       </footer>
